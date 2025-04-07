@@ -1,9 +1,9 @@
 Inspired by https://github.com/azur1s :)
 
-# uwucat
+# UwUcat
 
 ## Compilation && Installation
 ```
 gcc uwucat.c -o uwucat
-mv /usr/bin
+sudo mv /usr/bin
 ```
